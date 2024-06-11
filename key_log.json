@@ -1,0 +1,266 @@
+[
+    {
+        "Pressed": "Key.alt_l",
+        "Window": "C:\\WINDOWS\\py.exe"
+    },
+    {
+        "Pressed": "Key.tab",
+        "Window": "C:\\WINDOWS\\py.exe"
+    },
+    {
+        "Released": "Key.tab",
+        "Window": "Task Switching"
+    },
+    {
+        "Pressed": "Key.tab",
+        "Window": "Task Switching"
+    },
+    {
+        "Released": "Key.tab",
+        "Window": "Task Switching"
+    },
+    {
+        "Released": "Key.alt_l",
+        "Window": "Task Switching"
+    },
+    {
+        "Pressed": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'p'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'p'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'r'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'r'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'h'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'h'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'r'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'r'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'s'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'s'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'h'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'h'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'a'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<99>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<99>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<98>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<98>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'k'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'k'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'m'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'m'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.caps_lock",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'i'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'i'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'n'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'n'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'n'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'n'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "'u'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "'u'",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<99>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<99>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "<98>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<97>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Released": "<98>",
+        "Window": "Sign in to GitHub \u00b7 GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.alt_l",
+        "Window": "GitHub - Google Chrome"
+    },
+    {
+        "Pressed": "Key.tab",
+        "Window": "GitHub - Google Chrome"
+    },
+    {
+        "Released": "Key.alt_l",
+        "Window": "Task Switching"
+    },
+    {
+        "Released": "Key.tab",
+        "Window": "C:\\WINDOWS\\py.exe"
+    }
+]

@@ -1,0 +1,33 @@
+Window: Task Switching, Key: Key.tab
+Window: Task Switching, Key: Key.tab
+Window: Task Switching, Key: Key.alt_l
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: Key.caps_lock
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: Key.caps_lock
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'p'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: Key.caps_lock
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'r'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'a'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'h'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'a'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'r'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 's'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'h'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'a'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <97>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <99>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <97>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <98>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'k'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: Key.caps_lock
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'm'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: Key.caps_lock
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'i'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'n'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'n'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: 'u'
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <97>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <99>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <97>
+Window: Sign in to GitHub · GitHub - Google Chrome, Key: <98>
+Window: Task Switching, Key: Key.alt_l
+Window: C:\WINDOWS\py.exe, Key: Key.tab
